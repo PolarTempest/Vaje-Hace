@@ -6,7 +6,7 @@ Pozdravljeni v Vadbenem Programu za Hacetovo tekmovanje. Upam, da vam bo pripomo
 
 Program garantirano ni virus
 
-Zagnati je potrebno iz terminala . Terminal zaženete tako, da držite shift in desni klik ter izberete odpri ukazno okno tukaj. nato vtipkate: start TeorijaHaceV1_1.exe
+Zagnati je potrebno iz terminala . Terminal zaženete tako, da držite shift in desni klik ter izberete odpri ukazno okno tukaj. nato vtipkate: start TeorijaHaceV1_2.exe
 
 Nato bi moralo delovati.
 
