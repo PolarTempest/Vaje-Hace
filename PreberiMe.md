@@ -10,4 +10,6 @@ Zagnati je potrebno iz terminala . Terminal zaženete tako, da držite shift in 
 
 Nato bi moralo delovati.
 
+Obvestilo: Program ki se glasi Teorija za hacetovo tekmovanje se sedaj zaganja s klikom na datoteko Zagon.
+
 Izdelava: Jan Krneta, Zagorje-Mesto
