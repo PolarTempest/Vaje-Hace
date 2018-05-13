@@ -19,8 +19,10 @@ public class znacka {
 	
 	//Konec celice
 	
-	
-	
+	System.out.println("2. Kaj ureja Zakon o gasilstvu? \n a) Kdo je gasilec. \n b) Kazni za gasilce \n c) Ureja nalogo, organizacijo in status gasilstva.");
+	System.out.print("Odgovor: ");
+	char odgovor = scan.next().charAt(0);
+	if(odgovor == 'c'){System.out.println("Odgovor je pravilen \n\n");} else {System.out.print("Pravilen odgovor je c."); napake++;}
 	
 	
 	
